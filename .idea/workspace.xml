@@ -5,17 +5,50 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d33fa001-92d0-45d6-ae9e-aa41d51e5775" name="Changes" comment="Add pa_303_2_1, glab_303_3_1, glab_303_3_2">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/glab_303_2_1/AssignmentOperatorsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/glab_303_6_1/ArrayLoops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pa_303_7_1/ArrayTasks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PerScholas.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/glab_303_3_2/VigenereCipher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/glab_303_3_2/VigenereCipher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/glab_303_2_1/ArithmeticOperatorsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/glab_303_2_1/BitwiseOperatorsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/glab_303_2_1/LogicalOperatorsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/glab_303_2_1/RelationalOperatorsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/glab_303_2_1/ArithmeticOperatorsDemoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/glab_303_2_1/AssignmentOperatorsDemoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/glab_303_2_1/BitwiseOperatorsDemoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/glab_303_2_1/LogicalOperatorsDemoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/glab_303_2_1/RelationalOperatorsDemoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/glab_303_2_1/AssignmentOperatorsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/glab_303_2_1/AssignmentOperatorsDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/glab_303_3_1/StringMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/glab_303_3_1/StringMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/glab_303_3_2/CompoundInterestCalc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/glab_303_3_2/CompoundInterestCalc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/glab_303_3_2/VigenereCipher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/glab_303_3_2/VigenereCipher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/glab_303_6_1/ArrayLoops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/glab_303_6_1/ArrayLoops.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pa_303_2_1/CommandLineDivision.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pa_303_2_1/CommandLineDivision.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pa_303_2_1/CommandLineDivision.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pa_303_2_1/CommandLineDivision.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pa_303_2_1/DoubleAddition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pa_303_2_1/DoubleAddition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pa_303_2_1/DoubleDivision.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pa_303_2_1/DoubleDivision.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pa_303_2_1/Farewell.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pa_303_2_1/Farewell.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pa_303_2_1/IntDoubleAddition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pa_303_2_1/IntDoubleAddition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pa_303_2_1/IntegerAddition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pa_303_2_1/IntegerAddition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pa_303_2_1/IntegerDivision.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pa_303_2_1/IntegerDivision.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pa_303_2_1/NumberAddition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pa_303_2_1/NumberAddition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pa_303_2_1/TemperatureConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pa_303_2_1/TemperatureConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pa_303_2_1/ThreeDrinks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pa_303_2_1/ThreeDrinks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pa_303_7_1/ArrayTasks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pa_303_7_1/ArrayTasks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/glab_303_3_1/StringMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/glab_303_3_1/StringMethods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/glab_303_3_2/CompoundInterestCalc.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/glab_303_3_2/CompoundInterestCalc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/glab_303_3_2/VigenereCipher.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/glab_303_3_2/VigenereCipher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/glab_303_6_1/ArrayLoops.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/glab_303_6_1/ArrayLoops.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pa_303_2_1/CommandLineDivision.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pa_303_2_1/CommandLineDivision.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pa_303_2_1/DoubleAddition.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pa_303_2_1/DoubleAddition.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pa_303_2_1/DoubleDivision.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pa_303_2_1/DoubleDivision.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pa_303_2_1/Farewell.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pa_303_2_1/Farewell.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pa_303_2_1/IntDoubleAddition.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pa_303_2_1/IntDoubleAddition.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pa_303_2_1/IntegerAddition.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pa_303_2_1/IntegerAddition.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pa_303_2_1/IntegerDivision.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pa_303_2_1/IntegerDivision.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pa_303_2_1/Item.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pa_303_2_1/Item.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pa_303_2_1/NumberAddition.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pa_303_2_1/NumberAddition.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pa_303_2_1/TemperatureConverter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pa_303_2_1/TemperatureConverter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pa_303_2_1/ThreeDrinks.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pa_303_2_1/ThreeDrinks.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pa_303_7_1/ArrayTasks.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pa_303_7_1/ArrayTasks.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,66 +59,216 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2ZPhoy0tOqDmaqeODbs9XPcfq8v" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Add.executor": "Run",
-    "Application.ArrayLoops.executor": "Run",
-    "Application.ArrayTasks.executor": "Run",
-    "Application.AssignmentOperatorsDemo.executor": "Run",
-    "Application.CommandLineDivision.executor": "Run",
-    "Application.CompoundInterestCalc.executor": "Run",
-    "Application.DoubleAddition.executor": "Run",
-    "Application.DoubleDivision.executor": "Run",
-    "Application.DoubleIntAddition.executor": "Run",
-    "Application.Farewell.executor": "Run",
-    "Application.IntegerAddition.executor": "Run",
-    "Application.IntegerDivision.executor": "Run",
-    "Application.StringMethods.executor": "Run",
-    "Application.TemperatureConverter.executor": "Run",
-    "Application.ThreeDrinks.executor": "Run",
-    "Application.VigenereCipher.executor": "Run",
-    "Downloaded.Files.Path.Enabled": "false",
-    "Maven.PerScholas [compile].executor": "Run",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/Users/notre_ally/CS/PerScholas_IDEA/PerScholas/src/Main.java",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.keymap",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Add.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArithmeticOperatorsDemo.executor&quot;: &quot;Coverage&quot;,
+    &quot;Application.ArrayLoops.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayTasks.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AssignmentOperatorsDemo.executor&quot;: &quot;Coverage&quot;,
+    &quot;Application.BitwiseOperatorsDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CommandLineDivision.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CompoundInterestCalc.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DoubleAddition.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DoubleDivision.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DoubleIntAddition.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Farewell.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IntegerAddition.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IntegerDivision.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LogicalOperatorsDemo.executor&quot;: &quot;Coverage&quot;,
+    &quot;Application.RelationalOperatorsDemo.executor&quot;: &quot;Coverage&quot;,
+    &quot;Application.StringMethods.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TemperatureConverter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThreeDrinks.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VigenereCipher.executor&quot;: &quot;Run&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;JUnit.ArithmeticOperatorsDemoTest.NegateItem.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ArithmeticOperatorsDemoTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ArithmeticOperatorsDemoTest.testAddItems.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ArithmeticOperatorsDemoTest.testDivideItems.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ArithmeticOperatorsDemoTest.testFloatDivide.executor&quot;: &quot;Coverage&quot;,
+    &quot;JUnit.ArithmeticOperatorsDemoTest.testModuloItems.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ArithmeticOperatorsDemoTest.testMultiplyItem.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ArithmeticOperatorsDemoTest.testMultiplyItems.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ArithmeticOperatorsDemoTest.testNegateItem.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ArithmeticOperatorsDemoTest.testPostfixIncrement.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ArithmeticOperatorsDemoTest.testPrefixIncrement.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ArithmeticOperatorsDemoTest.testSubtractItem.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ArithmeticOperatorsDemoTest.testTooBigInt.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ArithmeticOperatorsDemoTest.testTooSmallInt.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ArithmeticOperatorsDemoTest.testTruncatedIntegerDivision.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ArithmeticOperatorsDemoTest.testUndefinedDouble.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ArithmeticOperatorsDemoTest.testUndefinedNegativeDouble.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ArithmeticOperatorsDemoTest.testZeroDividedByZero.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AssignmentOperatorsDemoTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AssignmentOperatorsDemoTest.testAssignValues.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BitwiseOperatorsDemoTest$bitsLengthTests$happyBitsLengthTests.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.BitwiseOperatorsDemoTest$bitsLengthTests.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BitwiseOperatorsDemoTest.shouldConvertIntegerToBinaryInteger.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BitwiseOperatorsDemoTest.shouldProvideBitsOfInteger.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BitwiseOperatorsDemoTest.shouldProvideBitsOfIntegerForNegatives.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BitwiseOperatorsDemoTest.shouldReplaceCharInString.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LogicalOperatorsDemoTest.andBothFalse.executor&quot;: &quot;Coverage&quot;,
+    &quot;JUnit.LogicalOperatorsDemoTest.andBothTrue.executor&quot;: &quot;Coverage&quot;,
+    &quot;JUnit.LogicalOperatorsDemoTest.andOneFalse.executor&quot;: &quot;Coverage&quot;,
+    &quot;JUnit.LogicalOperatorsDemoTest.carrotFalseFalse.executor&quot;: &quot;Coverage&quot;,
+    &quot;JUnit.LogicalOperatorsDemoTest.carrotFalseTrue.executor&quot;: &quot;Coverage&quot;,
+    &quot;JUnit.LogicalOperatorsDemoTest.carrotTrueFalse.executor&quot;: &quot;Coverage&quot;,
+    &quot;JUnit.LogicalOperatorsDemoTest.carrotTrueTrue.executor&quot;: &quot;Coverage&quot;,
+    &quot;JUnit.LogicalOperatorsDemoTest.doubleAndBothFalse.executor&quot;: &quot;Coverage&quot;,
+    &quot;JUnit.LogicalOperatorsDemoTest.doubleAndBothTrue.executor&quot;: &quot;Coverage&quot;,
+    &quot;JUnit.LogicalOperatorsDemoTest.doubleAndOneFalse.executor&quot;: &quot;Coverage&quot;,
+    &quot;JUnit.LogicalOperatorsDemoTest.doubleOrBothFalse.executor&quot;: &quot;Coverage&quot;,
+    &quot;JUnit.LogicalOperatorsDemoTest.doubleOrBothTrue.executor&quot;: &quot;Coverage&quot;,
+    &quot;JUnit.LogicalOperatorsDemoTest.doubleOrOneFalse.executor&quot;: &quot;Coverage&quot;,
+    &quot;JUnit.LogicalOperatorsDemoTest.mainMethod.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LogicalOperatorsDemoTest.notFalse.executor&quot;: &quot;Coverage&quot;,
+    &quot;JUnit.LogicalOperatorsDemoTest.notTrue.executor&quot;: &quot;Coverage&quot;,
+    &quot;JUnit.RelationalOperatorsDemoTest.TestStrArray.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RelationalOperatorsDemoTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RelationalOperatorsDemoTest.testFormatDouble.executor&quot;: &quot;Coverage&quot;,
+    &quot;JUnit.RelationalOperatorsDemoTest.testFormatDouble2.executor&quot;: &quot;Coverage&quot;,
+    &quot;JUnit.RelationalOperatorsDemoTest.testFormatDouble3.executor&quot;: &quot;Coverage&quot;,
+    &quot;JUnit.RelationalOperatorsDemoTest.testFormatLong.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RelationalOperatorsDemoTest.testFormattedPrint.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RelationalOperatorsDemoTest.testIsLong (1).executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RelationalOperatorsDemoTest.testIsLong (2).executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RelationalOperatorsDemoTest.testIsLong.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RelationalOperatorsDemoTest.testIsLong2.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.PerScholas [clean,install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.PerScholas [compile].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.PerScholas [install].executor&quot;: &quot;Run&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/notre_ally/CS/PerScholas_IDEA/PerScholas/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/pa_303_2_1" />
       <recent name="$PROJECT_DIR$/src/pa-303.2.1" />
     </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="glab_303_2_1" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="glab_303_2_1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.BitwiseOperatorsDemo">
+    <configuration name="ArithmeticOperatorsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="glab_303_2_1.ArithmeticOperatorsDemo" />
+      <module name="PerScholas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="glab_303_2_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AssignmentOperatorsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="glab_303_2_1.AssignmentOperatorsDemo" />
+      <module name="PerScholas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="glab_303_2_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BitwiseOperatorsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="glab_303_2_1.BitwiseOperatorsDemo" />
+      <module name="PerScholas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="glab_303_2_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RelationalOperatorsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="glab_303_2_1.RelationalOperatorsDemo" />
+      <module name="PerScholas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="glab_303_2_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RelationalOperatorsDemoTest.testFormatDouble" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PerScholas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="glab_303_2_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="glab_303_2_1" />
+      <option name="MAIN_CLASS_NAME" value="glab_303_2_1.RelationalOperatorsDemoTest" />
+      <option name="METHOD_NAME" value="testFormatDouble(double)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BitwiseOperatorsDemo" />
+        <item itemvalue="Application.AssignmentOperatorsDemo" />
+        <item itemvalue="Application.ArithmeticOperatorsDemo" />
+        <item itemvalue="JUnit.RelationalOperatorsDemoTest.testFormatDouble" />
+        <item itemvalue="Application.RelationalOperatorsDemo" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -102,7 +285,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1702329806393</updated>
-      <workItem from="1702329807495" duration="85109000" />
+      <workItem from="1702329807495" duration="221011000" />
+      <workItem from="1703545974897" duration="759000" />
     </task>
     <task id="LOCAL-00001" summary="Add pa_303_2_1, glab_303_3_1, glab_303_3_2">
       <option name="closed" value="true" />
@@ -133,8 +317,111 @@
     <MESSAGE value="Add pa_303_2_1, glab_303_3_1, glab_303_3_2" />
     <option name="LAST_COMMIT_MESSAGE" value="Add pa_303_2_1, glab_303_3_1, glab_303_3_2" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.StringIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="47" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/glab_303_2_1/BitwiseOperatorsDemo.java</url>
+          <line>362</line>
+          <option name="timeStamp" value="186" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/glab_303_2_1/BitwiseOperatorsDemo.java</url>
+          <line>363</line>
+          <option name="timeStamp" value="187" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/glab_303_2_1/BitwiseOperatorsDemo.java</url>
+          <line>314</line>
+          <properties class="glab_303_2_1.BitwiseOperatorsDemo" method="binaryToBoolArray">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="188" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
     <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PerScholas$RelationalOperatorsDemoTest_testFormatDouble2.ic" NAME="RelationalOperatorsDemoTest.testFormatDouble2 Coverage Results" MODIFIED="1703216383685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>glab_303_2_1.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/PerScholas$LogicalOperatorsDemoTest_doubleOrBothTrue.ic" NAME="LogicalOperatorsDemoTest.doubleOrBothTrue Coverage Results" MODIFIED="1703220714816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>glab_303_2_1.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/PerScholas$LogicalOperatorsDemoTest_andOneFalse.ic" NAME="LogicalOperatorsDemoTest.andOneFalse Coverage Results" MODIFIED="1703219368472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>glab_303_2_1.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/PerScholas$LogicalOperatorsDemoTest_doubleAndBothTrue.ic" NAME="LogicalOperatorsDemoTest.doubleAndBothTrue Coverage Results" MODIFIED="1703220728040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>glab_303_2_1.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/PerScholas$LogicalOperatorsDemoTest_carrotFalseFalse.ic" NAME="LogicalOperatorsDemoTest.carrotFalseFalse Coverage Results" MODIFIED="1703221004404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>glab_303_2_1.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/PerScholas$LogicalOperatorsDemoTest_carrotFalseTrue.ic" NAME="LogicalOperatorsDemoTest.carrotFalseTrue Coverage Results" MODIFIED="1703220894405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>glab_303_2_1.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/PerScholas$BitwiseOperatorsDemo.ic" NAME="BitwiseOperatorsDemo Coverage Results" MODIFIED="1703302969829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>glab_303_2_1.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/PerScholas$RelationalOperatorsDemoTest_testFormatDouble.ic" NAME="RelationalOperatorsDemoTest.testFormatDouble Coverage Results" MODIFIED="1703301165474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>glab_303_2_1.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/PerScholas$ArithmeticOperatorsDemoTest_testFloatDivide.ic" NAME="ArithmeticOperatorsDemoTest.testFloatDivide Coverage Results" MODIFIED="1703122562225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>glab303_2_1.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/PerScholas$LogicalOperatorsDemoTest_doubleAndOneFalse.ic" NAME="LogicalOperatorsDemoTest.doubleAndOneFalse Coverage Results" MODIFIED="1703220735336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>glab_303_2_1.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/PerScholas$LogicalOperatorsDemo.ic" NAME="LogicalOperatorsDemo Coverage Results" MODIFIED="1703300959347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>glab_303_2_1.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/PerScholas$AssignmentOperatorsDemo.ic" NAME="AssignmentOperatorsDemo Coverage Results" MODIFIED="1703301265999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>glab_303_2_1.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/PerScholas$RelationalOperatorsDemoTest_testFormatDouble3.ic" NAME="RelationalOperatorsDemoTest.testFormatDouble3 Coverage Results" MODIFIED="1703216402146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>glab_303_2_1.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/PerScholas$LogicalOperatorsDemoTest_carrotTrueTrue.ic" NAME="LogicalOperatorsDemoTest.carrotTrueTrue Coverage Results" MODIFIED="1703220970643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>glab_303_2_1.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/PerScholas$LogicalOperatorsDemoTest_doubleAndBothFalse.ic" NAME="LogicalOperatorsDemoTest.doubleAndBothFalse Coverage Results" MODIFIED="1703220740793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>glab_303_2_1.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/PerScholas$ArithmeticOperatorsDemo.ic" NAME="ArithmeticOperatorsDemo Coverage Results" MODIFIED="1703301233633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>glab_303_2_1.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/PerScholas$LogicalOperatorsDemoTest_andBothFalse.ic" NAME="LogicalOperatorsDemoTest.andBothFalse Coverage Results" MODIFIED="1703219321880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>glab_303_2_1.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/PerScholas$LogicalOperatorsDemoTest_notTrue.ic" NAME="LogicalOperatorsDemoTest.notTrue Coverage Results" MODIFIED="1703300999336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>glab_303_2_1.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/PerScholas$LogicalOperatorsDemoTest_andBothTrue.ic" NAME="LogicalOperatorsDemoTest.andBothTrue Coverage Results" MODIFIED="1703220158160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>glab_303_2_1.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/PerScholas$LogicalOperatorsDemoTest_carrotTrueFalse.ic" NAME="LogicalOperatorsDemoTest.carrotTrueFalse Coverage Results" MODIFIED="1703220855941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>glab_303_2_1.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/PerScholas$LogicalOperatorsDemoTest_notFalse.ic" NAME="LogicalOperatorsDemoTest.notFalse Coverage Results" MODIFIED="1703220322673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>glab_303_2_1.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/PerScholas$LogicalOperatorsDemoTest_doubleOrBothFalse.ic" NAME="LogicalOperatorsDemoTest.doubleOrBothFalse Coverage Results" MODIFIED="1703220695952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>glab_303_2_1.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/PerScholas$RelationalOperatorsDemo.ic" NAME="RelationalOperatorsDemo Coverage Results" MODIFIED="1703301111884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>glab_303_2_1.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/PerScholas$LogicalOperatorsDemoTest_doubleOrOneFalse.ic" NAME="LogicalOperatorsDemoTest.doubleOrOneFalse Coverage Results" MODIFIED="1703220708506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>glab_303_2_1.*</FILTER>
+    </SUITE>
   </component>
 </project>
